@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yugesh77.aternos.me",
+    "ip": "yugesh77.aternos.me:23529",
     "port": 23529,
     "version": "1.21.1"
   },
